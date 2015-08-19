@@ -1,7 +1,7 @@
 {
-    "id": "http_status_codes",
+    "id": "http_codes_cheat_sheet",
     "name": "HTTP Status Codes",
-    "description": "A list of HTTP status codes",
+    "description": "HTTP request status codes and their meanings",
     "metadata": {
         "sourceName": "W3C",
         "sourceUrl": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html"
